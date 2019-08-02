@@ -1,10 +1,12 @@
 # zeko-modules
 Custom modules that won't be apart of the core zeko
 
-## Image Editing
+# Modules
+
+### Image Editing
 Uses Jimp to process images, with editing effects (pixelate, blur, invert, rotate, crop, etc)
 and with a meme command, to add images and text to a template.
-## Music
+### Music
  In development
-## OCR
+### OCR
 Optical character recognition. Uses google Vision API to read images and get the text
