@@ -1,6 +1,5 @@
 # zeko-modules
-Custom modules that won't be apart of the core zeko
-
+Custom modules that won't be apart of the core [zeko experience](https://github.com/jackzmc/zeko). These modules will be less updated, and have less support. They may require installing other dependencies, and require updating manually. They also may break in new versions of zeko (unlike core items)
 # Modules
 
 ### Image Editing
